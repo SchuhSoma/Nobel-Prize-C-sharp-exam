@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\bin\Debug\SchuhS_NobelDij.exe.config
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\bin\Debug\SchuhS_NobelDij.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\bin\Debug\SchuhS_NobelDij.pdb
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\obj\Debug\SchuhS_NobelDij.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\obj\Debug\SchuhS_NobelDij.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\obj\Debug\SchuhS_NobelDij.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_NobelDij\SchuhS_NobelDij\obj\Debug\SchuhS_NobelDij.pdb
